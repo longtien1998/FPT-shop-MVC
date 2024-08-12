@@ -1,0 +1,149 @@
+.user-bar-profile{
+    border-radius: 10px;
+    background-color: #fff;
+}
+.profile-name-img{
+    width: 60px;
+    height: 60px;
+    
+}
+.profile-name-img{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.profile-name p{
+    font-size: 16px;
+}
+.profile-coin{
+    background-image: url(../library/icon/loyalty.png);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+.icon-coin{
+    width: 40px;
+    position: relative;
+}
+.profile-coin p{
+    margin: 0;
+}
+.profile-coin span{
+    color: #F4A421;
+    font-weight: 700;
+    letter-spacing: 3px;
+    font-size: 22px;
+    margin-top: 5px;
+    margin-left: 10px;
+}
+.profile-coin .nen{
+   float: right;
+   margin-top: -50px;
+   width: 90px;
+   height: 110px;
+}
+.profile-coin a{
+    border-radius: 20px;
+    margin: 15px 0;
+}
+.user-bar-list{
+    border-radius: 10px;
+    background-color: #fff;
+}
+.user-bar-list li{
+    line-height: 40px;
+    padding: 0 25px;
+}
+.user-bar-list li a{
+    color: gray;
+    font-size: 20px;
+    text-decoration: none;
+    
+}
+.user-bar-list li:hover{
+    background-color: rgb(223, 221, 221);
+    
+}
+.user-bar-list li{
+    line-height: 40px;
+    
+}
+.user-bar-list li .bx-chevron-right{
+    float:right;
+    font-size: 25px;
+    margin-top: 8px;
+}
+
+.list-active{
+    color: crimson !important;
+    background-color: #FAE8E9;
+    border-left:2px solid crimson;
+}
+.list-active a{
+    color: crimson !important;
+
+}
+
+.user-detail{
+    border-radius: 10px;
+    background-color: #fff;
+}
+.user-detail-title h4{
+    line-height: 40px;
+}
+.info-show{
+    width: 400px;
+    margin: 0 auto;
+}
+.info-show .info-show-img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    /* background-color: #F4A421; */
+    margin: 30px auto;
+}
+.info-show ul{
+    width: 100%;
+}
+.info-show li{
+    width: 100%;
+    line-height: 50px;
+    border-bottom: 1px solid rgb(209, 209, 209);
+}
+.info-show li .label{
+    margin: 0;
+    color: darkgrey;
+}
+.info-show p{
+    margin: 0;
+}
+.info-show .btn{
+    width: 100%;
+    line-height: 38px;
+    border-radius: 25px ;
+}
+.info-show .btn:hover {
+    background-color: white;
+    color: #e43434;
+    border-color: #e43434;
+}
+.upload-flie{
+    /* width: 50px !important; */
+    margin: 0 auto;
+}
+.up-file{
+    display: none;
+}
+.info-show .update{
+    display: none;
+    transition: display 0.5s ease-in-out;
+}
+.info-show .info{
+    display: block;
+}
+.btn-outline-danger:hover{
+    background-color: rgb(250, 217, 217) !important;
+}
+.getpass{
+    display: none;
+
+}
